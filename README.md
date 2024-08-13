@@ -1,7 +1,5 @@
 # 0x96f Micro Editor Theme
 
-![Logo](logo.png)
-
 A simple and pleasant dark theme for [Micro](https://micro-editor.github.io/)
 
 ## Screenshot
